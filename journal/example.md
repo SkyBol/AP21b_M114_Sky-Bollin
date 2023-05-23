@@ -1,7 +1,5 @@
 # Lernjournal vom <* Date Here *>
 
-## Repetition
-
-##
+## Lernstoff
 
 ## Reflexion
